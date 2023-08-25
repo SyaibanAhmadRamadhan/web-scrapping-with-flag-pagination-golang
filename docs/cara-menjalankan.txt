@@ -1,0 +1,9 @@
+go run main.go --max-post=4 --max-paging=1
+
+keterangan folder
+- entities untuk menyimpan data model
+- images untuk menyimpan image hasil download
+- infrastructure untuk melakukan setup database mongodb
+- repository merupakan layer untuk melakukan perintah-perintah query
+- services bisnis logic web scrapping
+- utils kumpulan function-function
