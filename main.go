@@ -4,9 +4,9 @@ import (
 	"flag"
 	"fmt"
 
-	"technical-test-pt-semesta-arus-technology/infrastructures/db"
-	"technical-test-pt-semesta-arus-technology/repositories"
-	"technical-test-pt-semesta-arus-technology/services"
+	"SyaibanAhmadRamadhan/web-scrapping-with-flag-pagination-golang/infrastructures/db"
+	"SyaibanAhmadRamadhan/web-scrapping-with-flag-pagination-golang/repositories"
+	"SyaibanAhmadRamadhan/web-scrapping-with-flag-pagination-golang/services"
 )
 
 func init() {

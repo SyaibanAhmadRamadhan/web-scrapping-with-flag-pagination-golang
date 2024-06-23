@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"technical-test-pt-semesta-arus-technology/entities"
-	"technical-test-pt-semesta-arus-technology/utils"
+	"SyaibanAhmadRamadhan/web-scrapping-with-flag-pagination-golang/entities"
+	"SyaibanAhmadRamadhan/web-scrapping-with-flag-pagination-golang/utils"
 
 	"github.com/gocolly/colly/v2"
 )

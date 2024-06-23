@@ -1,7 +1,7 @@
 package services
 
 import (
-	"technical-test-pt-semesta-arus-technology/repositories"
+	"SyaibanAhmadRamadhan/web-scrapping-with-flag-pagination-golang/repositories"
 
 	"github.com/qiniu/qmgo"
 )

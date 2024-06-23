@@ -3,7 +3,7 @@ package repositories
 import (
 	"context"
 
-	"technical-test-pt-semesta-arus-technology/entities"
+	"SyaibanAhmadRamadhan/web-scrapping-with-flag-pagination-golang/entities"
 
 	"github.com/qiniu/qmgo"
 )
